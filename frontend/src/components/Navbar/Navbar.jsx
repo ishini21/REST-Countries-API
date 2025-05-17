@@ -161,7 +161,7 @@ export default function Navbar() {
                   }`}
                   onClick={() => handleButtonClick("signin")}
                 >
-                  Sign In
+                  
                 </button>
                 <button
                   className={`px-2 py-1 text-lg font-medium rounded-md ${
@@ -171,7 +171,7 @@ export default function Navbar() {
                   }`}
                   onClick={() => handleButtonClick("signup")}
                 >
-                  Sign Up
+               
                 </button>
               </>
             )}
